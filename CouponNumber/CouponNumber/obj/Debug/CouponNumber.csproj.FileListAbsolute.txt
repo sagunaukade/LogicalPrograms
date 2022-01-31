@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\bin\Debug\CouponNumber.exe.config
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\bin\Debug\CouponNumber.exe
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\bin\Debug\CouponNumber.pdb
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\obj\Debug\CouponNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\obj\Debug\CouponNumber.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\obj\Debug\CouponNumber.exe
+C:\Users\ganes\source\repos\CouponNumber\CouponNumber\obj\Debug\CouponNumber.pdb
