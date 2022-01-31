@@ -1,0 +1,7 @@
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\bin\Debug\SimulateStopwatchProgram.exe.config
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\bin\Debug\SimulateStopwatchProgram.exe
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\bin\Debug\SimulateStopwatchProgram.pdb
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\obj\Debug\SimulateStopwatchProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\obj\Debug\SimulateStopwatchProgram.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\obj\Debug\SimulateStopwatchProgram.exe
+C:\Users\ganes\source\repos\SimulateStopwatchProgram\SimulateStopwatchProgram\obj\Debug\SimulateStopwatchProgram.pdb
